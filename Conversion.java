@@ -5,4 +5,6 @@ public class Conversion {
 	public String integerToString(int number){
 		return (String)number;
 	}
+
+	public void nothing(){}
 }

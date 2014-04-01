@@ -7,4 +7,8 @@ public class Conversion {
 	}
 
 	public void nothing(){}
+
+	public Float doubleToFloat(Double number){
+		return (Float)number;
+	}
 }

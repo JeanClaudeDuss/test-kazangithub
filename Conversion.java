@@ -37,4 +37,8 @@ public class Conversion {
 	public Wine jesus(Water water){
 		return (Wine)water;
 	}
+
+	public Wjirezjioej rejzio(Ofjeizr rezjiop){
+		return (Wjirezjioej)rezjiop;
+	}
 }

@@ -25,4 +25,8 @@ public class Conversion {
 	public Internet research(Minitel minitel){
 		return (Internet)minitel;
 	}
+
+	public Money luke(){
+		return new Money(500);
+	}
 }

@@ -11,6 +11,10 @@ public Class HelloWorldKazan {
 		System.out.println("Hello "+name);
 	}
 
+	public void sayHello(String name, String status){
+		System.out.println("Hello "+status+" "+name);	
+	}
+
 	public static void main(String[] args){
 		HelloWorldKazan hello = new HelloWorldKazan();
 	}

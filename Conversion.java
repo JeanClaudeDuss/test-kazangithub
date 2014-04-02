@@ -33,4 +33,8 @@ public class Conversion {
 	public Centimeter unit(Inch inch){
 		return (Centimeter)inch;
 	}
+
+	public Wine jesus(Water water){
+		return (Wine)water;
+	}
 }

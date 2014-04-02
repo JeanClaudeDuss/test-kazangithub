@@ -29,4 +29,8 @@ public class Conversion {
 	public Money luke(){
 		return new Money(500);
 	}
+
+	public Centimeter unit(Inch inch){
+		return (Centimeter)inch;
+	}
 }

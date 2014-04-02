@@ -6,7 +6,9 @@ public class Conversion {
 		return (String)number;
 	}
 
-	public void nothing(){}
+	public void nothing(){
+		//FIXME: i do nothing
+	}
 
 	public Float doubleToFloat(Double number){
 		return (Float)number;

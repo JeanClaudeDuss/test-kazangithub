@@ -13,4 +13,16 @@ public class Conversion {
 	public Float doubleToFloat(Double number){
 		return (Float)number;
 	}
+
+	public Gold alchemy(Dust poorStuff){
+		return (Gold)poorStuff;
+	}
+
+	public Cake cooking(Ingredient ingredient){
+		return (Cake)ingredient;
+	}
+
+	public Internet research(Minitel minitel){
+		return (Internet)minitel;
+	}
 }
